@@ -24,4 +24,5 @@ public class AnimalsList {
         massLions[1] = new Lions("Тимон", "белый", 11, "Мясо");
         massLions[2] = new Lions("Пумба", "бурый", 12, "Мясо");
         return massLions;
-    }}
+    }
+}

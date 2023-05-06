@@ -11,7 +11,8 @@ public class Animals {
         this.foodType = foodType;
 
     }
-    public  void sing(){
+
+    public void sing() {
         System.out.println("животное издает звук");
     }
 

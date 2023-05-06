@@ -13,8 +13,8 @@ public class Dogs extends Animals {
         this.averageWeight = averageWeight;
     }
 
-    public  void sing(){
-        System.out.println(name+" издайет громкий лай.");
+    public void sing() {
+        System.out.println(name + " издайет громкий лай.");
     }
 
 }
